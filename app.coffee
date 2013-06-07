@@ -13,5 +13,5 @@ $ ->
 
   $('.toggle-background').on 'click', ->
     $('body').toggleClass 'black-background'
-    $('.swatch .color').toggleClass 'black-mode'
+    $('.swatch.color').toggleClass 'black-mode'
     
