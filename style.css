@@ -1,0 +1,38 @@
+.content {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    font-family: helvetica;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.button {
+}
+
+.row {
+    width: 100%;
+    display: inline;
+}
+
+.swatch {
+    text-align: center;
+    display: inline-block;
+    height: 10%;
+    width: 10%;
+}
+
+.black-background {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.black-mode {
+    margin: 5px;
+    height: 9%;
+    width: 9%;
+    color: #000000;
+}
